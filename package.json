@@ -1,7 +1,7 @@
 {
-  "name": "portfolio",
+  "name": "portfolio-template",
   "version": "2.0.0",
-  "description": "High-performance modern portfolio template with adaptive wallpaper themes, secret owner dashboard, and hardened security architecture.",
+  "description": "Interactive modern portfolio template with 3D backdrop, adaptive wallpaper themes, and secret owner dashboard.",
   "main": "server/server.js",
   "scripts": {
     "start": "node tools/serve.js",
@@ -9,11 +9,13 @@
   },
   "keywords": [
     "portfolio",
+    "template",
+    "portfolio-template",
     "schematic",
     "webflow-theme",
     "threejs",
     "responsive",
-    "security"
+    "developer-portfolio"
   ],
   "author": "Soham Parab",
   "license": "MIT"
